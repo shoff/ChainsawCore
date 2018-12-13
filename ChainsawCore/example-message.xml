@@ -1,0 +1,126 @@
+﻿<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="INFO" timestamp="1544647918386" thread="28">
+  <log4j:message>Request starting HTTP/1.1 GET https://localhost:44312/api/Bracket/sadf/asfd/0 </log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="EMS.Kendo.Api(8548)" />
+    <log4j:data name="log4jmachinename" value="LTDEV156" />
+  </log4j:properties>
+  <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+</log4j:event>
+
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803262824262334" thread="28">
+  <log4j:message>Request finished in 9856.4253ms 200 text/html; charset=utf-8</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263024588355" thread="28">
+  <log4j:message>Request starting HTTP/2.0 GET https://localhost:44339/  </log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263024592639" thread="28">
+  <log4j:message>Executing endpoint 'Chainsaw.Web.Controllers.HomeController.Index (Chainsaw.Web)'</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263024594920" thread="28">
+  <log4j:message>Route matched with {action = "Index", controller = "Home"}. Executing action Chainsaw.Web.Controllers.HomeController.Index (Chainsaw.Web)</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263024597884" thread="28">
+  <log4j:message>Executing action method Chainsaw.Web.Controllers.HomeController.Index (Chainsaw.Web) - Validation state: Valid</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263074640935" thread="28">
+  <log4j:message>Executed action method Chainsaw.Web.Controllers.HomeController.Index (Chainsaw.Web), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0181ms.</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263074642711" thread="28">
+  <log4j:message>Executing ViewResult, running view Index.</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263074653717" thread="28">
+  <log4j:message>Executed ViewResult - view Index executed in 4.5669ms.</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263074655077" thread="28">
+  <log4j:message>Executed action Chainsaw.Web.Controllers.HomeController.Index (Chainsaw.Web) in 14.4188ms</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263124658185" thread="28">
+  <log4j:message>Executed endpoint 'Chainsaw.Web.Controllers.HomeController.Index (Chainsaw.Web)'</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263124662124" thread="28">
+  <log4j:message>Request finished in 46.2072ms 200 text/html; charset=utf-8</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263124675768" thread="28">
+  <log4j:message>Request starting HTTP/2.0 GET https://localhost:44339/Home/Privacy  </log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
+<log4j:event logger="Microsoft.AspNetCore.Hosting.Internal.WebHost" level="Trace" timestamp="636803263124713936" thread="28">
+  <log4j:message>Executing endpoint 'Chainsaw.Web.Controllers.HomeController.Privacy (Chainsaw.Web)'</log4j:message>
+  <log4j:properties>
+    <log4j:data name="log4japp" value="APPLICATION NAME" />
+    <log4j:properties>
+      <log4j:data name="log4jmachinename" value="LTDEV156" />
+    </log4j:properties>
+    <log4j:locationInfo class="com.howtodoinjava.Log4jXMLLayoutExample" method="main" file="Log4jXMLLayoutExample.java" line="17"/>
+  </log4j:event>
